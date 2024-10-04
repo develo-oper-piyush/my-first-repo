@@ -1,0 +1,17 @@
+/project (master)
+$ cd Project
+bash: cd: Project: No such file or directory
+
+/project (master)
+$ cd Project
+bash: cd: Project: No such file or directory
+
+/project (master)
+$ cd Project
+bash: cd: Project: No such file or directory
+
+/project (master)
+$ cd Project
+bash: cd: Project: No such file or directory
+
+khjhuhh
